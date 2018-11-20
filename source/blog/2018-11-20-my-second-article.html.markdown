@@ -1,3 +1,11 @@
+---
+
+title: my-second-article
+date: 2018-11-20 00:20 UTC
+tags:
+
+---
+
 ## Background & Objectives
 
 Read about the blogging extension in the [Middleman documentation](https://middlemanapp.com/basics/blogging/).
